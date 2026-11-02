@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Öğrenci Ders Programı",
+    "slug": "ogrenci-ders-programi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "dersprogrami",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
